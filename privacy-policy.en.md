@@ -58,4 +58,4 @@ If this policy changes, the updated version will appear in the app and on this p
 
 ## Contact
 
-For questions about this policy, use the App Support link on Chonkfish's App Store page.
+Email linyqemail@gmail.com, or use Settings > About > Contact Us in the app. To report an inappropriate AI reply, long-press it and choose Report This Reply: this opens an email draft containing that reply, which is sent only if you choose to send it. We respond within 24 hours.
